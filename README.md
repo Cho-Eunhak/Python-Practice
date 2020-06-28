@@ -1,2 +1,2 @@
 # Elevator
- A Simple Elevator Program. Enter the number of people and the number of floors. Operates until the person arrives at the destination.
+ A Simple Elevator Program using python. Enter the number of people and the number of floors. Operates until the person arrives at the destination.
